@@ -55,10 +55,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\NewLevel.cs" />
-     <Compile Include="Assets\Scripts\SetCameraPosition.cs" />
-     <Compile Include="Assets\Scripts\SetRotationOfPlane.cs" />
-     <Compile Include="Assets\Starfield Skybox\Demo\Script\LookCamera.cs" />
+     <Compile Include="Assets\Scripts\gameController.cs" />
  <Reference Include="UnityEngine">
  <HintPath>E:/Unity/2019.4.17f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
  </Reference>
